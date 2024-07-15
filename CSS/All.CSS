@@ -1,6 +1,13 @@
 body{
-color:red 
+color:red ;
 
 }
-.head{color: aqua;}
 
+h1{
+color:aqua;
+
+}
+h2{
+
+color: blue;
+}
